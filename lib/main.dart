@@ -2,10 +2,11 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(
-    new MaterialApp(
-      home: new AwesomeButton(),
-    )
+      new MaterialApp(
+        home: new AwesomeButton(),
+      )
   );
+  
 }
 
 class AwesomeButton extends StatefulWidget {
